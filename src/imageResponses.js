@@ -16,3 +16,5 @@ const getSpongegar = (request, response) => {
 };
 
 module.exports = { getSpongegar };
+
+// The Totem Lurantis is not hard.
